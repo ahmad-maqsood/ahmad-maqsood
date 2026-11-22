@@ -6,8 +6,8 @@
 
 Building practical software, exploring computer vision, and turning ideas into working products.
 
-[![GitHub](https://img.shields.io/badge/GitHub-ahmad--maqsood-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmad-maqsood)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmad--maqsood1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-maqsood1)
+[![Instagram](https://img.shields.io/badge/Instagram-ahmad__maqsood-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahmad__maqsood)
 
 </div>
 
