@@ -145,6 +145,21 @@ UniTask brings together task management, assignment deadlines, class timetables,
 
 </td>
 </tr>
+<tr>
+<td width="100%" valign="top">
+
+### Skerry
+
+A modern, lightweight **Dynamic Island for Windows 10 and 11**.
+
+Brings notifications, music controls with synced lyrics, clipboard history, daily to-dos, focus timers, file staging, quick translation, and live PC health monitoring into one floating desktop interface.
+
+Built with **Tauri 2, React, TypeScript, and Rust**.
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ahmad-maqsood/skerry)
+
+</td>
+</tr>
 </table>
 
 **More projects coming soon.**
