@@ -135,19 +135,6 @@ I enjoy building projects through **vibecoding and AI-assisted development**. Th
 <tr>
 <td width="100%" valign="top">
 
-### UniTask
-
-An offline-first Android application designed to help university students organize their academic activities.
-
-UniTask brings together task management, assignment deadlines, class timetables, courses, reminders, and study groups in one application.
-
-[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CondaLabs/unitask)
-
-</td>
-</tr>
-<tr>
-<td width="100%" valign="top">
-
 ### Skerry Island
 
 A modern, lightweight **Dynamic Island for Windows 10 and 11**.
