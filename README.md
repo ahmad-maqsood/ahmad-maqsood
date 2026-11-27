@@ -135,6 +135,19 @@ I enjoy building projects through **vibecoding and AI-assisted development**. Th
 <tr>
 <td width="100%" valign="top">
 
+### UniTask
+
+An offline-first Android application designed to help university students organize their academic activities.
+
+UniTask brings together task management, assignment deadlines, class timetables, courses, reminders, and study groups in one application.
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ahmad-maqsood/unitask)
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
 ### Skerry Island
 
 A modern, lightweight **Dynamic Island for Windows 10 and 11**.
@@ -152,16 +165,6 @@ Built with **Tauri 2, React, TypeScript, and Rust**.
 **More projects coming soon.**
 
 ---
-
-## CondaLabs
-
-I'm also involved with **[CondaLabs](https://github.com/CondaLabs)**, a software development organization focused on building and maintaining useful software projects.
-
-<div align="center">
-
-[![CondaLabs](https://img.shields.io/badge/CondaLabs-Explore_Organization-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CondaLabs)
-
-</div>
 
 ---
 
